@@ -4,7 +4,7 @@
 Este projeto visa explorar a fusão criativa entre o dinamismo do futebol e a estética única do renomado pintor Van Gogh. Aqui você encontrará uma série de exemplos de imagens de futebol inspiradas no estilo marcante de Van Gogh.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para criar o README das imgs;
 - IA Generativa **[Craiyon](https://www.craiyon.com/)** para criar a arte visual do do projeto;
 
 ## 🧐 Processo de Criação
