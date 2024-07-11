@@ -8,34 +8,25 @@ Aqui estão alguns exemplos das imagens geradas pelo projeto:
 
 ### Imagem de Referência
 
-![Imagem de Referência](referencia.png)
+   
+   <img src="https://github.com/1GM1910/lab-natty-or-not/blob/main/imgs/craiyon_202759_Jim_Carrey_portrait_painted_by_van_gogh.png?raw=true" alt="Imagem de Referência" width="400px">
 
 ### Sub-Imagens
 
-1. **Sub-Imagem 1**
-   ![Sub-Imagem 1](subimagem1.png)
-   Breve descrição da primeira sub-imagem.
+<div style="text-align: center;">
 
-2. **Sub-Imagem 2**
-   ![Sub-Imagem 2](subimagem2.png)
-   Breve descrição da segunda sub-imagem.
+   <img src="https://github.com/1GM1910/lab-natty-or-not/blob/main/imgs/craiyon_205509_Messi_portrait_painted_by_Van_Gogh.png?raw=true" alt="Sub-Imagem 1" width="300px" >
+   
+   <img src="https://github.com/1GM1910/lab-natty-or-not/assets/142198108/caa083e7-14c2-430d-88df-092da6f63817" alt="Sub-Imagem 2" width="300px">
+   
+   <img src="https://github.com/1GM1910/lab-natty-or-not/assets/142198108/82798732-3bc1-4b77-a464-170ce50e130d" alt="Sub-Imagem 3" width="300px">
 
-3. **Sub-Imagem 3**
-   ![Sub-Imagem 3](subimagem3.png)
-   Breve descrição da terceira sub-imagem.
+</div>
 
-### Imagem Única Gerada
+### Imagems Únicas Geradas
 
 Aqui está uma das imagens geradas pelo algoritmo inspirado em Van Gogh:
 
-![Imagem Gerada](imagem_gerada.png)
+<img src="https://github.com/1GM1910/lab-natty-or-not/assets/142198108/9b8cd251-a94e-4ec7-abd7-4318f8157746" alt="Imagem Gerada" width="500px">
 
-## Como Executar o Projeto
 
-1. **Pré-requisitos**
-   - Python 3.6 ou superior
-   - Bibliotecas necessárias (listar as bibliotecas e versões aqui)
-
-2. **Instalação**
-   ```bash
-   pip install -r requirements.txt
