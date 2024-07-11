@@ -1,4 +1,4 @@
-# Explorando o Futebol Através da Arte de Van Gogh 🎨⚽
+#  Futebol Através da Arte de Van Gogh 🎨⚽
 
 ## 📒 Descrição
 Este projeto visa explorar a fusão criativa entre o dinamismo do futebol e a estética única do renomado pintor Van Gogh. Aqui você encontrará uma série de exemplos de imagens de futebol inspiradas no estilo marcante de Van Gogh.
