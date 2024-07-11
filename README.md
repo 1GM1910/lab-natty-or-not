@@ -13,5 +13,5 @@ Utilizando técnicas de edição digital e inspiração na paleta de cores e pin
 ## 🚀 Resultados
 - Link do Projeto **[Projeto](https://github.com/1GM1910/lab-natty-or-not/blob/main/imgs/README.md)** 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Esta coleção de imagens visa não apenas inspirar, mas também mostrar como a arte pode enriquecer a experiência esportiva, oferecendo uma nova maneira de apreciar o futebol através dos olhos de um mestre impressionista.
